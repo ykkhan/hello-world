@@ -1,2 +1,1 @@
-# hello-world
-basic python
+# basic python
